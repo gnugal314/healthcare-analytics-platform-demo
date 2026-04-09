@@ -84,3 +84,9 @@ healthcare-analytics-platform-demo/
 ├── src/
 ├── tests/
 └── README.md
+```
+## Setup
+
+python3 -m venv .venv  
+source .venv/bin/activate  
+pip install -r requirements.txt  
