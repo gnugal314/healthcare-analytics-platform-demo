@@ -1,6 +1,5 @@
 # Healthcare Analytics Platform Demo
-
-Production-style Python data pipelines for healthcare claims and pharmacy 340B analytics.
+Production-style Python data pipelines for healthcare claims, pharmacy 340B analytics, data quality validation, and analytics-ready outputs.
 
 ## Overview
 
@@ -19,9 +18,18 @@ This repository focuses on the parts of healthcare analytics that matter most in
 - observability and pipeline health
 - analytics-ready output datasets
 
-## Why I Built This
+## Key Differentiators
 
-In healthcare, analytics pipelines do more than move data. They support operational reporting, regulatory readiness, clinical decision-making, and financial visibility. I built this project to showcase how I approach Python-based data engineering in a way that emphasizes:
+- Multi-domain healthcare analytics design
+- Synthetic claims and pharmacy 340B datasets
+- Built-in data quality validation
+- Modular raw, staging, curated, and analytics layers
+- Test coverage for core transformation and business-rule logic
+
+## Why I Built This
+This project reflects my approach to building data platforms that are not only technically sound, but trusted by the business and usable in real operational contexts.
+
+Analytics pipelines do more than move data. They support operational reporting, regulatory readiness, clinical decision-making, and financial visibility. I built this project to demonstrate how I approach Python-based data engineering in a way that emphasizes:
 
 - **scale**
 - **reliability**
