@@ -78,12 +78,20 @@ Optional future enhancements:
 
 ```text
 healthcare-analytics-platform-demo/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── pyproject.toml
+├── Makefile
 ├── data/
 ├── docs/
 ├── scripts/
 ├── src/
-├── tests/
-└── README.md
+│   └── healthcare_analytics/
+│       ├── shared/
+│       ├── claims/
+│       └── pharmacy_340b/
+└── tests/
 ```
 ## Setup
 
