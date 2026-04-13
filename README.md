@@ -1,4 +1,4 @@
-# Healthcare Analytics Platform Demo
+# Healthcare Analytics Pipeline Demo
 Production-style Python data pipelines for healthcare claims, pharmacy 340B analytics, data quality validation, and analytics-ready outputs.
 
 ## Overview
